@@ -1,0 +1,24 @@
+The program uses a simple linear trend:
+Historical load
+      ↓
+Assign time index
+      ↓
+Fit linear regression
+      ↓
+Estimate slope
+      ↓
+Project next observation
+
+Conceptually
+
+Training Load
+     |
+450  |                 ●
+400  |             ●
+350  |         ●
+300  | ●   ●
+     |________________________
+       Time →
+                    ↓
+              Forecast
+This is intentionally a simple forecasting model. It is a learning project, not a validated system for prescribing training loads.
