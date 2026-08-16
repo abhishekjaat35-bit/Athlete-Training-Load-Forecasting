@@ -39,3 +39,17 @@ Priya,2026-08-07,375
 Priya,2026-08-08,390
 Priya,2026-08-09,385
 Priya,2026-08-10,400
+
+
+Dataset quality
+
+40 observations
+4 athletes
+10 observations per athlete
+0 missing values
+
+It contains four different patterns:
+Rahul   → increasing load
+Arjun   → decreasing load
+Vikram  → increasing load
+Priya   → relatively stable gradual increase
